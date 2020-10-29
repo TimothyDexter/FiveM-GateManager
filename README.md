@@ -1,6 +1,7 @@
 # GateManager
 Control gates in FiveM.  Lockable gate states but retain natural movement.  Gates can be controlled mid-open/close to change their direction.  Movement is networked synchronized between clients.
 
+[Preview](https://youtu.be/SrF1gbbmBqM)
 
 
 Disclaimer:
